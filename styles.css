@@ -155,7 +155,7 @@ nav ul li a{
     }
 
     .login-btn{
-        background: transparent;
+        background: #6e45e2;
         border: 1px solid white;
         color: white;
     }
@@ -163,6 +163,7 @@ nav ul li a{
     @media(max-width: 768px){
         nav{
             flex-direction: column;
+            padding: 1rem;
         }
 
         nav ul{
